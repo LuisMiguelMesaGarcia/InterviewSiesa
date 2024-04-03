@@ -1,0 +1,14 @@
+D:\datos_a_salvar\Estudiando\.NET\EntrevistaSiesa\EntrevistaSiesa\EntrevistaSiesa\bin\Debug\net8.0\EntrevistaSiesa.exe
+D:\datos_a_salvar\Estudiando\.NET\EntrevistaSiesa\EntrevistaSiesa\EntrevistaSiesa\bin\Debug\net8.0\EntrevistaSiesa.deps.json
+D:\datos_a_salvar\Estudiando\.NET\EntrevistaSiesa\EntrevistaSiesa\EntrevistaSiesa\bin\Debug\net8.0\EntrevistaSiesa.runtimeconfig.json
+D:\datos_a_salvar\Estudiando\.NET\EntrevistaSiesa\EntrevistaSiesa\EntrevistaSiesa\bin\Debug\net8.0\EntrevistaSiesa.dll
+D:\datos_a_salvar\Estudiando\.NET\EntrevistaSiesa\EntrevistaSiesa\EntrevistaSiesa\bin\Debug\net8.0\EntrevistaSiesa.pdb
+D:\datos_a_salvar\Estudiando\.NET\EntrevistaSiesa\EntrevistaSiesa\EntrevistaSiesa\obj\Debug\net8.0\EntrevistaSiesa.GeneratedMSBuildEditorConfig.editorconfig
+D:\datos_a_salvar\Estudiando\.NET\EntrevistaSiesa\EntrevistaSiesa\EntrevistaSiesa\obj\Debug\net8.0\EntrevistaSiesa.AssemblyInfoInputs.cache
+D:\datos_a_salvar\Estudiando\.NET\EntrevistaSiesa\EntrevistaSiesa\EntrevistaSiesa\obj\Debug\net8.0\EntrevistaSiesa.AssemblyInfo.cs
+D:\datos_a_salvar\Estudiando\.NET\EntrevistaSiesa\EntrevistaSiesa\EntrevistaSiesa\obj\Debug\net8.0\EntrevistaSiesa.csproj.CoreCompileInputs.cache
+D:\datos_a_salvar\Estudiando\.NET\EntrevistaSiesa\EntrevistaSiesa\EntrevistaSiesa\obj\Debug\net8.0\EntrevistaSiesa.dll
+D:\datos_a_salvar\Estudiando\.NET\EntrevistaSiesa\EntrevistaSiesa\EntrevistaSiesa\obj\Debug\net8.0\refint\EntrevistaSiesa.dll
+D:\datos_a_salvar\Estudiando\.NET\EntrevistaSiesa\EntrevistaSiesa\EntrevistaSiesa\obj\Debug\net8.0\EntrevistaSiesa.pdb
+D:\datos_a_salvar\Estudiando\.NET\EntrevistaSiesa\EntrevistaSiesa\EntrevistaSiesa\obj\Debug\net8.0\EntrevistaSiesa.genruntimeconfig.cache
+D:\datos_a_salvar\Estudiando\.NET\EntrevistaSiesa\EntrevistaSiesa\EntrevistaSiesa\obj\Debug\net8.0\ref\EntrevistaSiesa.dll

@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\datos_a_salvar\\Estudiando\\.NET\\EntrevistaSiesa\\EntrevistaSiesa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6425F866-3C2F-4530-A610-3889D3A663BB}|EntrevistaSiesa\\EntrevistaSiesa.csproj|d:\\datos_a_salvar\\estudiando\\.net\\entrevistasiesa\\entrevistasiesa\\entrevistasiesa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6425F866-3C2F-4530-A610-3889D3A663BB}|EntrevistaSiesa\\EntrevistaSiesa.csproj|solutionrelative:entrevistasiesa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\datos_a_salvar\\Estudiando\\.NET\\EntrevistaSiesa\\EntrevistaSiesa\\EntrevistaSiesa\\Program.cs",
+              "RelativeDocumentMoniker": "EntrevistaSiesa\\Program.cs",
+              "ToolTip": "D:\\datos_a_salvar\\Estudiando\\.NET\\EntrevistaSiesa\\EntrevistaSiesa\\EntrevistaSiesa\\Program.cs",
+              "RelativeToolTip": "EntrevistaSiesa\\Program.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowEsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T19:05:09.479Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
